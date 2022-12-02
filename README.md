@@ -1,5 +1,6 @@
 # Rental.al
 Project Description
+
 This project is a web platform which would help people to access through our website. A country like Albania where most of the population belongs to middle-class families. Most of them can’t afford a car. We have the solution for you. People have less time and more work than force them to travel different places to work, business meeting and tourism. Also traveling with public transport is not the best choice for all of us, including traffic and the number of people inside. Apart from this feature we will like to make sure everything is automated as we would proceed with a fast manner. We will ensure the buyers the model of the car, license plate, parts of the car and everything else is guaranteed by us. Our website will include people not only companies to rent their car instead of buying a new one which we can help our buyers for this case. 
 
  
