@@ -1,0 +1,23 @@
+The process starts when a customer makes a reservation through the online platform.
+
+The online platform checks the availability of cars from the different car rental companies.
+
+If a car is available, the online platform sends a booking request to the selected car rental company.
+
+The car rental company confirms the booking and sends a confirmation to the online platform.
+
+The online platform sends the booking confirmation to the customer.
+
+The customer pays for the rental through the online platform.
+
+The online platform sends the payment to the car rental company.
+
+The customer arrives at the car rental location and picks up the car.
+
+The car rental company checks the car and hands it over to the customer.
+
+The customer returns the car to the car rental company at the end of the rental period.
+
+The car rental company checks the car for any damages and charges the customer accordingly.
+
+The process ends when the customer pays for any damages and the car rental company closes the rental period.
