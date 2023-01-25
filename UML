@@ -1,0 +1,12 @@
+Car: represents a car that can be rented. Attributes: make, model, year, rental rate.
+Customer: represents a person who rents a car. Attributes: name, address, driver's license number, credit card information.
+Rental: represents a specific instance of a customer renting a car. Attributes: car, customer, start date, end date, total cost.
+RentalAgency: represents the company that rents out cars. Attributes: name, address, phone number, list of cars available for rent.
+Payment: represents a payment made by a customer for a rental. Attributes: amount, date, rental, customer.
+The relationships between these classes would be:
+
+A Car can be rented by many Rentals.
+A Customer can rent many Cars through many Rentals.
+A Rental belongs to one Car and one Customer.
+A RentalAgency has many Cars available for rent.
+A Payment belongs to one Rental and one customer.
